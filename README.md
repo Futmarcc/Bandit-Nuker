@@ -41,6 +41,35 @@ pip install goog
 pip install autologin
 
 
+## Tools
+
+- Token Login
+- Token Checker
+- Token Grabber
+- Token Infos
+- Webhook Infos
+- Webhook Spammer
+- Webhook Multi Spammer
+- Webhook Deleter
+- Server Joiner
+- Mass Leaver
+- Mass DM
+- Mass Report
+- Nickname Changer
+- Token Generator
+- Nitro Generator
+- IP Pinger
+- Website Pinger
+- Token Email Spammer
+- Token get Guild's
+- Close all DM's
+- Remove all Friends
+- Block all Friends
+- Cycle Token Status
+- Rape Token
+- Token Country
+- Server Nuker
+
 ## Feel free to dm Marcc#6666 if u need help or if smth doesn't work!
 
 
